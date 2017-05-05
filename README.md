@@ -1,13 +1,12 @@
+## Welcome to the University of Oklahoma's Virtual Reality Association
 
-## <span style="color:white">Welcome to the University of Oklahoma's Virtual Reality Association</span>
-
-### <span style="color:white">Interested in VR/AR and everything in between?</span>
+### Interested in VR/AR and everything in between?
 
 Join [here.](https://goo.gl/forms/PhBAN3U8dYC78AoM2)
 
-### <span style="color:white">Visit our OrgSync for more information!</span>
+### Visit our OrgSync for more information!
 [OrgSync](https://orgsync.com/156940/chapter)
 
-#### <span style="color:white">Check out our projects!</span>
+#### Check out our projects!
 - [Escape The Room](https://github.com/OUVirtualReality/EscapeTheRoom)
 - [Website](https://github.com/OUVirtualReality/OUVirtualReality)
