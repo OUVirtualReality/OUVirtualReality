@@ -9,3 +9,5 @@ Join [here.](https://goo.gl/forms/PhBAN3U8dYC78AoM2)
 #### Check out our projects!
 - [Escape The Room](https://github.com/OUVirtualReality/EscapeTheRoom)
 - [Website](https://github.com/OUVirtualReality/OUVirtualReality)
+
+![OUVR Logo](/images/OUVR_256x256.png)
