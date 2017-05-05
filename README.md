@@ -1,4 +1,4 @@
-## Welcome to the Univeristy of Oklahoma's Virtual Reality Association
+## Welcome to the University of Oklahoma's Virtual Reality Association
 
 ### Interested in VR/AR and everything in between?
 Join [here.](https://goo.gl/forms/PhBAN3U8dYC78AoM2)
