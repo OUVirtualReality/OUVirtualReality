@@ -2,6 +2,7 @@
 ## Welcome to the University of Oklahoma's Virtual Reality Association
 
 ### Interested in VR/AR and everything in between?
+</span>
 Join [here.](https://goo.gl/forms/PhBAN3U8dYC78AoM2)
 
 ### Visit our OrgSync for more information!
@@ -10,4 +11,4 @@ Join [here.](https://goo.gl/forms/PhBAN3U8dYC78AoM2)
 #### Check out our projects!
 - [Escape The Room](https://github.com/OUVirtualReality/EscapeTheRoom)
 - [Website](https://github.com/OUVirtualReality/OUVirtualReality)
-</span>
+
