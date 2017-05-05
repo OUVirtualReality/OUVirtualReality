@@ -3,7 +3,7 @@
 ### Interested in VR/AR and everything in between?
 Join [here.](https://goo.gl/forms/PhBAN3U8dYC78AoM2)
 
-### Visit our OrgSync for more information!
+### <span style="color:white">Visit our OrgSync for more information!</span>
 [OrgSync](https://orgsync.com/156940/chapter)
 
 #### Check out our projects!
